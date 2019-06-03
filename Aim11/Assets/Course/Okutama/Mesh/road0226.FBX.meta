@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 7f30d3d2af778fe4bb271241b6a6d21f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Road01
+    100002: Road02
+    100004: //RootNode
+    100006: Road03
+    100008: Road04
+    100010: Road05
+    100012: Road06
+    100014: Road07
+    100016: Road08
+    100018: Road09
+    100020: Road10
+    100022: Road11
+    100024: Road12
+    100026: Road13
+    100028: Road14
+    100030: Road15
+    100032: Road16
+    100034: Road17
+    100036: Road18
+    100038: Road19
+    100040: Road20
+    100042: Road21
+    100044: Road22
+    100046: Road23
+    100048: Road24
+    100050: Road25
+    100052: Road26
+    100054: Road27
+    100056: Road28
+    100058: Road29
+    100060: Road30
+    100062: Road31
+    100064: Road32
+    100066: Road33
+    100068: Road34
+    100070: Road35
+    100072: Road36
+    100074: Road37
+    100076: Road38
+    100078: Road39
+    100080: Road40
+    100082: Road41
+    100084: Road42
+    100086: Road43
+    100088: Road44
+    100090: Road45
+    100092: Road46
+    100094: Road47
+    100096: Road48
+    100098: Road49
+    100100: Road50
+    100102: Road51
+    100104: Road52
+    100106: Road53
+    100108: Road54
+    100110: Road55
+    100112: Road56
+    100114: Road57
+    400000: Road01
+    400002: Road02
+    400004: //RootNode
+    400006: Road03
+    400008: Road04
+    400010: Road05
+    400012: Road06
+    400014: Road07
+    400016: Road08
+    400018: Road09
+    400020: Road10
+    400022: Road11
+    400024: Road12
+    400026: Road13
+    400028: Road14
+    400030: Road15
+    400032: Road16
+    400034: Road17
+    400036: Road18
+    400038: Road19
+    400040: Road20
+    400042: Road21
+    400044: Road22
+    400046: Road23
+    400048: Road24
+    400050: Road25
+    400052: Road26
+    400054: Road27
+    400056: Road28
+    400058: Road29
+    400060: Road30
+    400062: Road31
+    400064: Road32
+    400066: Road33
+    400068: Road34
+    400070: Road35
+    400072: Road36
+    400074: Road37
+    400076: Road38
+    400078: Road39
+    400080: Road40
+    400082: Road41
+    400084: Road42
+    400086: Road43
+    400088: Road44
+    400090: Road45
+    400092: Road46
+    400094: Road47
+    400096: Road48
+    400098: Road49
+    400100: Road50
+    400102: Road51
+    400104: Road52
+    400106: Road53
+    400108: Road54
+    400110: Road55
+    400112: Road56
+    400114: Road57
+    2100000: road1
+    2100002: road2
+    2100004: 'Material #183'
+    2100006: road3
+    2100008: road4
+    2100010: road10
+    2100012: 'Material #2100'
+    2100014: road5
+    2100016: road6
+    2100018: 'Material #2108'
+    2100020: road9
+    2100022: road8
+    2100024: Road3
+    2100026: Road4
+    2100028: 'Material #353'
+    2100030: 'Material #354'
+    2100032: 'Material #358'
+    2100034: 'Material #2094'
+    2100036: 'Material #2096'
+    2100038: 'Material #2099'
+    2100040: 'Material #2101'
+    2100042: 05 - Default
+    2100044: 'Material #2105'
+    2100046: 'Material #2106'
+    2100048: 'Material #2107'
+    2100050: road7
+    2100052: 'Material #348'
+    2100054: 'Material #2095'
+    2100056: 'Material #2097'
+    2100058: 'Material #2098'
+    2100060: 'Material #2102'
+    2100062: 'Material #2104'
+    2100064: 'Material #355'
+    2100066: 'Material #356'
+    2100068: 'Material #2110'
+    2100070: 'Material #2109'
+    2100072: 'Material #2111'
+    2100074: Road1
+    2100076: Road2
+    2300000: Road01
+    2300002: Road02
+    2300004: Road03
+    2300006: Road04
+    2300008: Road05
+    2300010: Road06
+    2300012: Road07
+    2300014: Road08
+    2300016: Road09
+    2300018: Road10
+    2300020: Road11
+    2300022: Road12
+    2300024: Road13
+    2300026: Road14
+    2300028: Road15
+    2300030: Road16
+    2300032: Road17
+    2300034: Road18
+    2300036: Road19
+    2300038: Road20
+    2300040: Road21
+    2300042: Road22
+    2300044: Road23
+    2300046: Road24
+    2300048: Road25
+    2300050: Road26
+    2300052: Road27
+    2300054: Road28
+    2300056: Road29
+    2300058: Road30
+    2300060: Road31
+    2300062: Road32
+    2300064: Road33
+    2300066: Road34
+    2300068: Road35
+    2300070: Road36
+    2300072: Road37
+    2300074: Road38
+    2300076: Road39
+    2300078: Road40
+    2300080: Road41
+    2300082: Road42
+    2300084: Road43
+    2300086: Road44
+    2300088: Road45
+    2300090: Road46
+    2300092: Road47
+    2300094: Road48
+    2300096: Road49
+    2300098: Road50
+    2300100: Road51
+    2300102: Road52
+    2300104: Road53
+    2300106: Road54
+    2300108: Road55
+    2300110: Road56
+    2300112: Road57
+    3300000: Road01
+    3300002: Road02
+    3300004: Road03
+    3300006: Road04
+    3300008: Road05
+    3300010: Road06
+    3300012: Road07
+    3300014: Road08
+    3300016: Road09
+    3300018: Road10
+    3300020: Road11
+    3300022: Road12
+    3300024: Road13
+    3300026: Road14
+    3300028: Road15
+    3300030: Road16
+    3300032: Road17
+    3300034: Road18
+    3300036: Road19
+    3300038: Road20
+    3300040: Road21
+    3300042: Road22
+    3300044: Road23
+    3300046: Road24
+    3300048: Road25
+    3300050: Road26
+    3300052: Road27
+    3300054: Road28
+    3300056: Road29
+    3300058: Road30
+    3300060: Road31
+    3300062: Road32
+    3300064: Road33
+    3300066: Road34
+    3300068: Road35
+    3300070: Road36
+    3300072: Road37
+    3300074: Road38
+    3300076: Road39
+    3300078: Road40
+    3300080: Road41
+    3300082: Road42
+    3300084: Road43
+    3300086: Road44
+    3300088: Road45
+    3300090: Road46
+    3300092: Road47
+    3300094: Road48
+    3300096: Road49
+    3300098: Road50
+    3300100: Road51
+    3300102: Road52
+    3300104: Road53
+    3300106: Road54
+    3300108: Road55
+    3300110: Road56
+    3300112: Road57
+    4300000: Road03
+    4300002: Road53
+    4300004: Road02
+    4300006: Road43
+    4300008: Road52
+    4300010: Road18
+    4300012: Road23
+    4300014: Road24
+    4300016: Road22
+    4300018: Road30
+    4300020: Road29
+    4300022: Road56
+    4300024: Road36
+    4300026: Road37
+    4300028: Road49
+    4300030: Road01
+    4300032: Road05
+    4300034: Road13
+    4300036: Road14
+    4300038: Road20
+    4300040: Road25
+    4300042: Road40
+    4300044: Road42
+    4300046: Road51
+    4300048: Road57
+    4300050: Road04
+    4300052: Road06
+    4300054: Road12
+    4300056: Road34
+    4300058: Road41
+    4300060: Road07
+    4300062: Road09
+    4300064: Road11
+    4300066: Road27
+    4300068: Road08
+    4300070: Road10
+    4300072: Road26
+    4300074: Road28
+    4300076: Road31
+    4300078: Road33
+    4300080: Road35
+    4300082: Road39
+    4300084: Road50
+    4300086: Road55
+    4300088: Road16
+    4300090: Road19
+    4300092: Road21
+    4300094: Road32
+    4300096: Road46
+    4300098: Road48
+    4300100: Road54
+    4300102: Road38
+    4300104: Road44
+    4300106: Road47
+    4300108: Road45
+    4300110: Road15
+    4300112: Road17
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

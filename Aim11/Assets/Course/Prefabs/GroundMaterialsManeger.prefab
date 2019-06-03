@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8380882792395572715
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8380882792395572713}
+  - component: {fileID: 8380882792395572712}
+  m_Layer: 0
+  m_Name: GroundMaterialsManeger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8380882792395572713
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8380882792395572715}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -81.8945, y: 2.3593588, z: -242.09479}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8380882792395572712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8380882792395572715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6613a68108cc2c948894f2d8c0e63953, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  groundPhysicMaterials:
+  - physicMaterial: {fileID: 0}
+    grip: 1
+    drag: 0.1
+    surfaceType: 0
+  - physicMaterial: {fileID: 13400000, guid: 6e51d1951cbe64c4b97c95048c4dfe6d, type: 2}
+    grip: 0.6
+    drag: 0.4
+    surfaceType: 1
+  - physicMaterial: {fileID: 13400000, guid: 1c1497f907df4814ca8908320092dc6d, type: 2}
+    grip: 0.7
+    drag: 1
+    surfaceType: 1
+  - physicMaterial: {fileID: 13400000, guid: a867e589ea2b1c34ca25382911151968, type: 2}
+    grip: 0.7
+    drag: 0.95
+    surfaceType: 1
+  - physicMaterial: {fileID: 13400000, guid: e8a277e200d46c044979ba706012df72, type: 2}
+    grip: 0.1
+    drag: 0.1
+    surfaceType: 0
+  - physicMaterial: {fileID: 13400000, guid: 15086ff0b6383c24daef6451fa0531e0, type: 2}
+    grip: 1
+    drag: 0.1
+    surfaceType: 0
